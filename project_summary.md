@@ -8,7 +8,7 @@ earthBit
 I want the world to easily see how popular the first major cryptocurrency has become in real time.
 
 ## Link to Prototype
-[Example Link](http://www.google.com "Example Link")
+Currently down due to blockchain.info imploding
 
 ## Example Code
 ```
@@ -18,7 +18,7 @@ function winningsubmission() {
 ```
 
 ## Links to External Libraries
-[Example Link](https://github.com/dataarts/webgl-globe "Webgl Globe")
+[Webgl Globe](https://github.com/dataarts/webgl-globe "Webgl Globe")
 
 
 ## Images & Videos
