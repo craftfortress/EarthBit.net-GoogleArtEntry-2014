@@ -5,7 +5,7 @@ earthBit
 - Christopher Gomez Ridley, Craftfortress
 
 ## Description
-I want the world to easily see how popular the first major cryptocurrency has become in real time.
+I want the world to easily see how popular the first major cryptocurrency has become - in real time.
 
 ## Link to Prototype
 Currently down due to blockchain.info imploding
