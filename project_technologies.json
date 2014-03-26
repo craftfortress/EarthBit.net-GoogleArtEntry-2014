@@ -8,7 +8,8 @@
         ],
         "toolkits": [
             "jquery",
-            "three.js"
+            "three.js",
+            "webgl"
         ]
     }
 }
