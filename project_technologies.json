@@ -4,12 +4,15 @@
             "BlockChain.info"
         ],
         "platforms": [
-            "Windows"
+            "Windows",
+            "Heroku"
         ],
         "toolkits": [
             "jquery",
             "three.js",
-            "webgl"
+            "webgl",
+            "nodejs",
+            
         ]
     }
 }
