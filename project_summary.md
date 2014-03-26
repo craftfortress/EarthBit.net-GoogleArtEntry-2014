@@ -23,5 +23,7 @@ function winningsubmission() {
 
 ## Images & Videos
 
+
 ![Virgin Earth - no transactions showing](http://i.imgur.com/S97igwR.jpg "Virgin Earth")
 
+![earthBit showing nodes handling Bitcoin transactions](http://i.imgur.com/KzXgg5X.jpg)
