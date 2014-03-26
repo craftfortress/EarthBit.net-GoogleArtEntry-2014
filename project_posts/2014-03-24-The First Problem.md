@@ -6,4 +6,4 @@ EarthBit is written in Javascript and depends on the blockchain.info API.  It is
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-!(Bad news)[http://i.imgur.com/Fvd3H6j.png]
+![Bad news with the Blockchain API](http://i.imgur.com/Fvd3H6j.png)
