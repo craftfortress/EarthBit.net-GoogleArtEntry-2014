@@ -1,13 +1,14 @@
 {
     "technologies": {
         "apis": [
-            "BlockChain.info API"
+            "BlockChain.info"
         ],
         "platforms": [
             "Windows"
         ],
         "toolkits": [
-            "jquery"
+            "jquery",
+            "three.js"
         ]
     }
 }
