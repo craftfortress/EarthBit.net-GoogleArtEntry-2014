@@ -25,21 +25,19 @@ var interval;
 var iplist = [];
 function updateData() {
 
+    //Grab the latest transactions from the BlockChain API via the Heroku tunnel
     $.getJSON('http://immense-reaches-7758.herokuapp.com/blockchain.info/unconfirmed-transactions?cors=true&format=json', function (data) {
 
         var value1 = 0;
         var value2 = 0;
         var i = 0;
 
-        while (i < 10) {
-
+        for(items in data.txs) {
+        
             var ip = data.txs[i].relayed_by;
             var latitude = i;
             var longitude = i;
-
-
-         //   console.log("CURRENT  IP " + ip);
-
+        
             if (data.txs[i].out[0] != undefined)
                 value1 = data.txs[i].out[0].value;
 
@@ -48,9 +46,9 @@ function updateData() {
 
             var totalspend = (value1 + value2) * 0.00000001;
 
-
             if (!iniplist(ip + totalspend)) {
 
+                //Tunnel & Get Coordinates from the IP address
                 $.getJSON('http://immense-reaches-7758.herokuapp.com/freegeoip.net/json/' + ip, function (data) {
 
                     longitude = data.longitude;
@@ -60,10 +58,10 @@ function updateData() {
 
                     if (longitude != 0 && latitude != 0) {
 
+                        //Randomise timing of placement within a 10 second range to avoid spamming the viewer
                         setTimeout(function () {
                             build(data);
                         }, Math.floor(Math.random() * 10000));
-
 
                     }
 

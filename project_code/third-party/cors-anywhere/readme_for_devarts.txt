@@ -1,0 +1,1 @@
+Here is the code for CORS-Anywhere.  The live version of earthbit is linked to my instantiation on heroku (http://immense-reaches-7758.herokuapp.com/).
