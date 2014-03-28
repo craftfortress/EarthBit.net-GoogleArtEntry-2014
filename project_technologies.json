@@ -13,7 +13,7 @@
             "three.js",
             "webgl",
             "node.js",
-            "Google Chrome"
+            "Chrome Canary"
         ]
     }
 }
