@@ -17,9 +17,9 @@ function updateData() {
     //Grab the latest transactions from the BlockChain API via the Heroku tunnel
     $.getJSON('http://immense-reaches-7758.herokuapp.com/blockchain.info/unconfirmed-transactions?cors=true&format=json', function (data) {
 
-        var value1 = 0;
-        var value2 = 0;
-        var i = 0;
+        var value1 = 0,
+            value2 = 0,
+            i      = 0;
 
         for(items in data.txs) {
         
