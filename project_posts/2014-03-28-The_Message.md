@@ -1,5 +1,5 @@
-After decided I needed a moon, ( creating an eclipse - as otherwise the light cast on the planet would be factually innacurate as the cities are portrayed during the dark hours), I moved back onto the presentation of the data.
-I was aware that it was important to convey the information flowing through the Bitcoin Blockchain in a simple manner, for the art must communicate with all walks of life. 
+I decided I needed a moon.  I created an eclipse - as otherwise the light cast on the planet would be factually innacurate as the cities are portrayed during the dark hours.  I then moved back onto the presentation of the data.
+I was aware that it was important to convey the information flowing through the Bitcoin Blockchain clearly. 
 I opted to keep text and figures off the page.  
 Instead, in the same manner that the location, and time of a transaction is expressed as a node placed on the planet, 
 I incorporated the amount of Bitcoins being processed.  I did this in 3 ways.  
