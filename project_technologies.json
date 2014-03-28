@@ -2,6 +2,7 @@
     "technologies": {
         "apis": [
             "BlockChain.info"
+               
         ],
         "platforms": [
             "Windows",
@@ -11,7 +12,8 @@
             "jquery",
             "three.js",
             "webgl",
-            "node.js"
+            "node.js",
+            "Chrome Canary"
         ]
     }
 }
