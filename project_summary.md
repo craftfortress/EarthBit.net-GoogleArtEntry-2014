@@ -75,6 +75,6 @@ function updateData() {
 ## Images & Videos
 
 
-![Virgin Earth - no transactions showing](https://raw.githubusercontent.com/craftfortress/devart-template/master/project_images/Capture0.jpg "Virgin Earth")
+![Virgin Earth - no transactions showing](https://raw.githubusercontent.com/craftfortress/devart-template/master/project_images/Capture0.jpg)
 
 ![earthBit showing nodes handling Bitcoin transactions](https://raw.githubusercontent.com/craftfortress/devart-template/master/project_images/Capture1.JPG)
