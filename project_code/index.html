@@ -8,16 +8,18 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="-1">
     
-    <script type="text/javascript" src="third-party/Three.js"></script>
 <script type="text/javascript" src="third-party/ThreeFireball.js"></script>
     <script type="text/javascript" src="third-party/jquery/jquery.min.js"></script>
     <script type="text/javascript" src="third-party/jquery/jquery.color.js"></script>
-    <script type="text/javascript" src="third-party/three/ThreeWebGL.js"></script>
     <script type="text/javascript" src="third-party/three/ThreeExtras.js"></script>
     <script type="text/javascript" src="third-party/RequestAnimationFrame.js"></script>
     <script type="text/javascript" src="third-party/Detector.js"></script>
     <script type="text/javascript" src="third-party/Tween.js"></script>
+   
     
+<script type="text/javascript" src="third-party/flycontrols.js"></script>
+    
+     
     <script type="text/javascript" src="third-party/lensflare.js"></script>
     
 <script type="text/javascript" src="third-party/Detector.js"></script>
@@ -183,9 +185,9 @@ void main( void ) {
 
     float dirSpecularWeight = 0.0;
     if ( dirDotNormalHalf >= 0.0 )
-        dirSpecularWeight = ( 1.0 - n ) * pow( dirDotNormalHalf, 5.0 );
+        dirSpecularWeight = ( 5.0 - n ) * pow( dirDotNormalHalf, 5.0 );
 
-    vLightWeighting += vec3( 1.5, 0.5, 0.0 ) * dirSpecularWeight * n * 2.0;
+    vLightWeighting += vec3( 10.5, 0.5, 0.0 ) * dirSpecularWeight * n * 2.0;
 
     gl_FragColor *= vec4( vLightWeighting, 1.0 );
 

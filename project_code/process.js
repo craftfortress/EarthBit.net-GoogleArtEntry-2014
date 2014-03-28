@@ -38,7 +38,7 @@ function updateData() {
             var longitude = i;
 
 
-            console.log("CURRENT  IP " + ip);
+         //   console.log("CURRENT  IP " + ip);
 
             if (data.txs[i].out[0] != undefined)
                 value1 = data.txs[i].out[0].value;
