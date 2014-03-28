@@ -1,4 +1,4 @@
-I decided I needed a moon.  I created an eclipse - as otherwise the light cast on the planet would be factually innacurate as the cities are portrayed during the dark hours.  I then moved back onto the presentation of the data.
+I decided I needed a moon.  I created an eclipse.  Otherwise the light cast on the planet would be factually innacurate as the planet was photographed during the dark hours.  I then moved back onto the presentation of the data.
 I was aware that it was important to convey the information flowing through the Bitcoin Blockchain clearly. 
 I opted to keep text and figures off the page.  
 Instead, in the same manner that the location, and time of a transaction is expressed as a node placed on the planet, 
