@@ -1,7 +1,8 @@
 {
     "technologies": {
         "apis": [
-            "BlockChain.info"
+            "BlockChain.info",
+               "Google Chrome"
         ],
         "platforms": [
             "Windows",
@@ -12,6 +13,7 @@
             "three.js",
             "webgl",
             "node.js"
+         
         ]
     }
 }
