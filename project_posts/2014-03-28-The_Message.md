@@ -7,4 +7,4 @@ First the amount of bitcoins is reflected in the size of the node which appears.
 Then, to help differentiate between similar amount sizes, I also added a hue parser which will apply a different color to nodes in accordance with the amount processed. 
 Finally a sound is played.  The higher the amount of Bitcoins transacted, the higher the pitch.   This adds a further dimension to the piece which I hope keeps it subtle and captivating.
 
-![Different amount? Different sounds, different sizes & different hues](http://i.imgur.com/BhJWd4K.jpg)
+![Different amount? Different sounds, different sizes & different hues](https://raw.githubusercontent.com/craftfortress/devart-template/master/project_images/Capture6.JPG)
