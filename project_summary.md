@@ -5,7 +5,7 @@ earthBit
 - Christopher Gomez Ridley, Craftfortress
 
 ## Description
-I want to the clearly express the real-time propagation of the worlds first major cryptocurrency.
+I want to clearly illustrate the real-time propagation of the worlds first major cryptocurrency.
 
 ## Link to Prototype
 [www.earthBit.net](http://www.earthbit.net)
@@ -55,7 +55,7 @@ function updateData() {
                     }
 
                 });
-
+ 
             }
 
             i++;
