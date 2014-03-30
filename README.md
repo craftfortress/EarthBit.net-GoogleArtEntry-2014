@@ -4,6 +4,7 @@
 
 =====
 Competition Placeholder Readme as follows:
+
 =====
 
 # DevArt Template
