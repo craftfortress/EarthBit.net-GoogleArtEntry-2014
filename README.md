@@ -1,4 +1,9 @@
-﻿# DevArt Template
+#The introduction for this project is best viewed on the below link
+![DevArt With Google](https://devart.withgoogle.com/?utm_campaign=en&utm_source=en-ha-emea-gb-nr&utm_medium=ha&gclid=CJ-G-_rtnL0CFTTItAodmj0Alg#/project/17879820)
+
+#Placeholder text as follows:
+
+# DevArt Template
 
 This repository is where you will populate your Project Page on the DevArt site. It is also where you will build your code and document your process. Your page on DevArt will change every time you make changes to your code and push this repository to GitHub, pending moderation by the DevArt team. You will be able to preview the changes on your Project Page on DevArt after you push to GitHub. All submissions in GitHub will need to be entered in English. 
 
